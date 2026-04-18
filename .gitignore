@@ -1,0 +1,8 @@
+# The folder you want to ignore
+zz hagat msh 3yzynha fe vscode/
+
+# Crucial Python folders to ignore (These are too huge for GitHub!)
+venv/
+__pycache__/
+.byaldi/
+.env
